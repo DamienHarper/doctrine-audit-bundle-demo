@@ -56,12 +56,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/DamienHarper/DoctrineAuditBundle.git",
-                "reference": "0567aebb7cfaffbed331cf2835f5c1105c9c6163"
+                "reference": "820a6685d1ec7f0c724b74eab6a5dc308290aefa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/DamienHarper/DoctrineAuditBundle/zipball/0567aebb7cfaffbed331cf2835f5c1105c9c6163",
-                "reference": "0567aebb7cfaffbed331cf2835f5c1105c9c6163",
+                "url": "https://api.github.com/repos/DamienHarper/DoctrineAuditBundle/zipball/820a6685d1ec7f0c724b74eab6a5dc308290aefa",
+                "reference": "820a6685d1ec7f0c724b74eab6a5dc308290aefa",
                 "shasum": ""
             },
             "require": {
@@ -102,7 +102,7 @@
                 "Audit",
                 "doctrine"
             ],
-            "time": "2019-03-19T17:06:21+00:00"
+            "time": "2019-03-21T15:06:36+00:00"
         },
         {
             "name": "doctrine/annotations",
