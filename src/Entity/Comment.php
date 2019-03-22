@@ -37,7 +37,7 @@ class Comment
     protected $created_at;
 
     /**
-     * @ORM\Column(type="integer", options={"unsigned": true})
+     * @ORM\Column(type="integer", options={"unsigned": true}, nullable=true)
      */
     protected $post_id;
 

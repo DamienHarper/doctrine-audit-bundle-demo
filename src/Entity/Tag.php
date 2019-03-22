@@ -120,6 +120,11 @@ class Tag
         return $this->posts;
     }
 
+    public function __toString()
+    {
+        return $this->title;
+    }
+
     public function __sleep()
     {
         return ['id', 'title'];
