@@ -31,14 +31,16 @@ bin/console server:run
 Screenshots
 ===========
 
-Audit inventory:
+### Audit inventory
 
-![Screenshot](https://github.com/DamienHarper/doctrine-audit-bundle-demo/blob/master/screenshots/inventory.png)
+![Audit inventory](https://github.com/DamienHarper/doctrine-audit-bundle-demo/blob/master/screenshots/inventory.png)
 
-Entity history:
 
-![Screenshot](https://github.com/DamienHarper/doctrine-audit-bundle-demo/blob/master/screenshots/entity_history.png)
+### Entity history
 
-Entry details:
+![Entity history](https://github.com/DamienHarper/doctrine-audit-bundle-demo/blob/master/screenshots/entity_history.png)
 
-![Screenshot](https://github.com/DamienHarper/doctrine-audit-bundle-demo/blob/master/screenshots/entry_details.png)
+
+### Entry details
+
+![Entry details](https://github.com/DamienHarper/doctrine-audit-bundle-demo/blob/master/screenshots/entry_details.png)
