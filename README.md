@@ -39,6 +39,6 @@ Entity history:
 
 ![Screenshot](https://github.com/DamienHarper/doctrine-audit-bundle-demo/blob/master/screenshots/entity_history.png)
 
-Entity history:
+Entry details:
 
 ![Screenshot](https://github.com/DamienHarper/doctrine-audit-bundle-demo/blob/master/screenshots/entry_details.png)
