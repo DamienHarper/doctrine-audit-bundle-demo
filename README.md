@@ -26,3 +26,19 @@ bin/console doctrine:fixtures:load --append
 bin/console cache:clear
 bin/console server:run
 ```
+
+
+Screenshots
+===========
+
+Audit inventory:
+
+![Screenshot](https://github.com/DamienHarper/doctrine-audit-bundle-demo/screenshots/inventory.png)
+
+Entity history:
+
+![Screenshot](https://github.com/DamienHarper/doctrine-audit-bundle-demo/screenshots/entity_history.png)
+
+Entity history:
+
+![Screenshot](https://github.com/DamienHarper/doctrine-audit-bundle-demo/screenshots/entry_details.png)
