@@ -33,12 +33,12 @@ Screenshots
 
 Audit inventory:
 
-![Screenshot](https://github.com/DamienHarper/doctrine-audit-bundle-demo/screenshots/inventory.png)
+![Screenshot](https://github.com/DamienHarper/doctrine-audit-bundle-demo/blob/master/screenshots/inventory.png)
 
 Entity history:
 
-![Screenshot](https://github.com/DamienHarper/doctrine-audit-bundle-demo/screenshots/entity_history.png)
+![Screenshot](https://github.com/DamienHarper/doctrine-audit-bundle-demo/blob/master/screenshots/entity_history.png)
 
 Entity history:
 
-![Screenshot](https://github.com/DamienHarper/doctrine-audit-bundle-demo/screenshots/entry_details.png)
+![Screenshot](https://github.com/DamienHarper/doctrine-audit-bundle-demo/blob/master/screenshots/entry_details.png)
