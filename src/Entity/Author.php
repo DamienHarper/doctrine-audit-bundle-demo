@@ -151,6 +151,11 @@ class Author
         return $this->posts;
     }
 
+    public function __toString(): string
+    {
+        return $this->getFullname() ?? __CLASS__.'#'.$this->getId();
+    }
+
     public function __sleep()
     {
         return ['id', 'fullname', 'email'];
