@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "365fb141eb44945d321de218b6951def",
+    "content-hash": "c534bd4418437e809011915af606818c",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -52,7 +52,7 @@
         },
         {
             "name": "damienharper/doctrine-audit-bundle",
-            "version": "dev-master",
+            "version": "2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/DamienHarper/DoctrineAuditBundle.git",
@@ -4311,9 +4311,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "damienharper/doctrine-audit-bundle": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
