@@ -4,10 +4,13 @@ namespace App\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Mapping\Annotation as Gedmo;
+use DH\DoctrineAuditBundle\Annotation as Audit;
 
 /**
  * @ORM\Entity
  * @ORM\Table(name="`comment`", indexes={@ORM\Index(name="fk__idx", columns={"post_id"})})
+ *
+ * @Audit\Auditable()
  */
 class Comment
 {

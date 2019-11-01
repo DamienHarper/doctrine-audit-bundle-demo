@@ -6,11 +6,14 @@ use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Mapping\Annotation as Gedmo;
+use DH\DoctrineAuditBundle\Annotation as Audit;
 
 /**
  * @ORM\Entity
  * @ORM\Table(name="post", indexes={@ORM\Index(name="fk_1_idx", columns={"author_id"})})
- * @Gedmo\SoftDeleteable(fieldName="deleted_at", timeAware=false)
+ * @Gedmo\SoftDeleteable(fieldName="deleted_at", timeAware=false, hardDelete=false)
+ *
+ * @Audit\Auditable()
  */
 class Post
 {

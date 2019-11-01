@@ -1,8 +1,3 @@
 # Configuration reference available at:
 # https://github.com/DamienHarper/DoctrineAuditBundle#configuration
 dh_doctrine_audit:
-    entities:
-        App\Entity\Author: ~
-        App\Entity\Post: ~
-        App\Entity\Comment: ~
-        App\Entity\Tag: ~
