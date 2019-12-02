@@ -123,10 +123,16 @@
     "pagerfanta/pagerfanta": {
         "version": "v2.1.2"
     },
+    "php": {
+        "version": "7.4"
+    },
     "psr/cache": {
         "version": "1.0.1"
     },
     "psr/container": {
+        "version": "1.0.0"
+    },
+    "psr/event-dispatcher": {
         "version": "1.0.0"
     },
     "psr/log": {
@@ -183,6 +189,9 @@
     },
     "symfony/dotenv": {
         "version": "v4.2.4"
+    },
+    "symfony/error-handler": {
+        "version": "v5.0.1"
     },
     "symfony/event-dispatcher": {
         "version": "v4.2.4"
