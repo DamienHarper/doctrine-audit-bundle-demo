@@ -16,6 +16,7 @@
         "symfony/twig-bundle": "*",
         "symfony/var-dumper": "*",
         "symfony/web-profiler-bundle": "*",
+        "symfony/web-server-bundle": "^4.4",
         "symfony/yaml": "*"
     },
     "config": {
